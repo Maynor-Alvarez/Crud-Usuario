@@ -1,4 +1,4 @@
-package com.maynoralvarez.modelo;
+package com.maynoralvarez.usuario;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
